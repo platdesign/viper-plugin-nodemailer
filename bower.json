@@ -1,0 +1,8 @@
+{
+  "name": "viper-plugin-nodemailer",
+  "description": "Viper plugin for nodemailer",
+  "author": "Christian Blaschke <mail@platdesign.de>",
+  "version": "0.0.0",
+  "dependencies": {}
+}
+
